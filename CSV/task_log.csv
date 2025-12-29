@@ -1,0 +1,61 @@
+﻿log_date,employee,department,task_category,task_name,minutes,channel,priority,status,note
+2025/12/1,Mei,Admin,DataEntry,Sales list update,45,Onsite,Med,Done,Fixed missing rows
+2025/12/1,Ryo,Admin,InvoiceCheck,Invoice validation,60,Onsite,High,Done,Checked 12 invoices
+2025/12/1,Aki,Admin,Reporting,Weekly KPI draft,50,Email,Med,Done,Prepared outline
+2025/12/2,Hina,IT-Support,InquiryHandling,Password reset requests,40,Chat,Med,Done,5 users
+2025/12/2,Kota,IT-Support,TicketOps,Ticket triage,55,Email,High,Done,Escalated 2
+2025/12/2,Sora,IT-Support,Meeting,Vendor sync,30,Online,Med,Done,Discussed SLA
+2025/12/3,Mei,Admin,DataEntry,CRM data entry,75,Onsite,Med,Done,New leads 38
+2025/12/3,Ryo,Admin,Reporting,Monthly report prep,50,Onsite,Med,Done,Created tables
+2025/12/3,Aki,Admin,Meeting,Ops planning,35,Online,Med,Done,Resource allocation
+2025/12/4,Hina,IT-Support,InquiryHandling,Device setup questions,45,Chat,Med,Done,Standard FAQ
+2025/12/4,Kota,IT-Support,TicketOps,Ticket updates,60,Email,Med,Done,Closed 8 tickets
+2025/12/4,Sora,IT-Support,Automation,Macro idea review,40,Online,Low,Done,Collected candidates
+2025/12/5,Mei,Admin,InvoiceCheck,Payment request checks,55,Email,High,Done,Need one correction
+2025/12/5,Ryo,Admin,DataCleaning,Duplicate customer merge,70,Onsite,Med,Done,Matched by email
+2025/12/5,Aki,Admin,Reporting,Weekly KPI final,65,Email,High,Done,Sent to manager
+2025/12/6,Hina,IT-Support,InquiryHandling,Login issue investigation,60,Chat,High,Done,Cache clear solved
+2025/12/6,Kota,IT-Support,TicketOps,Incident follow-up,75,Email,High,InProgress,Waiting vendor
+2025/12/6,Sora,IT-Support,Meeting,Incident review,45,Online,High,Done,Action items set
+2025/12/7,Mei,Admin,DataEntry,Attendance sheet update,40,Onsite,Low,Done,Weekly routine
+2025/12/7,Ryo,Admin,Meeting,Backoffice handover,30,Online,Med,Done,New process
+2025/12/7,Aki,Admin,Automation,Excel template improvement,55,Onsite,Med,Done,Reduced manual steps
+2025/12/8,Hina,IT-Support,TicketOps,Ticket backlog cleanup,70,Email,Med,Done,Re-categorized
+2025/12/8,Kota,IT-Support,InquiryHandling,Software install requests,50,Chat,Med,Done,Approved 4
+2025/12/8,Sora,IT-Support,Automation,PowerShell draft,60,Onsite,Med,Done,Prototype script
+2025/12/9,Mei,Admin,DataCleaning,Master data format unify,80,Onsite,Med,Done,Standardized dates
+2025/12/9,Ryo,Admin,InvoiceCheck,Invoice mismatch check,65,Email,High,Done,Found 2 mismatches
+2025/12/9,Aki,Admin,Reporting,Ops weekly summary,45,Email,Med,Done,Highlights only
+2025/12/10,Hina,IT-Support,InquiryHandling,Printer issues,55,Chat,Med,Done,Driver updated
+2025/12/10,Kota,IT-Support,TicketOps,Escalation handling,60,Email,High,Done,3 escalations
+2025/12/10,Sora,IT-Support,Meeting,Internal training,40,Online,Low,Done,Onboarding
+2025/12/11,Mei,Admin,DataEntry,Order entry corrections,70,Onsite,High,Done,Fixed 18 orders
+2025/12/11,Ryo,Admin,Reporting,Monthly report v1,85,Onsite,Med,InProgress,Waiting numbers
+2025/12/11,Aki,Admin,Meeting,Stakeholder update,35,Online,Med,Done,Shared progress
+2025/12/12,Hina,IT-Support,TicketOps,Ticket creation support,45,Chat,Med,Done,Helped new staff
+2025/12/12,Kota,IT-Support,InquiryHandling,VPN access requests,50,Email,High,Done,Provisioned 6
+2025/12/12,Sora,IT-Support,Automation,Ticket auto-tag plan,55,Online,Med,Done,Defined rules
+2025/12/13,Mei,Admin,InvoiceCheck,Vendor invoice review,75,Email,High,Done,One returned
+2025/12/13,Ryo,Admin,DataCleaning,Name normalization,60,Onsite,Low,Done,Katakana unify
+2025/12/13,Aki,Admin,Reporting,Weekly KPI draft,50,Email,Med,Done,Prepared charts
+2025/12/14,Hina,IT-Support,InquiryHandling,Email delivery issue,65,Chat,High,Done,Reset rules
+2025/12/14,Kota,IT-Support,TicketOps,Weekend monitoring notes,40,Online,Low,Done,No incidents
+2025/12/14,Sora,IT-Support,Meeting,Change approval,30,Online,Med,Done,Approved patch
+2025/12/15,Mei,Admin,DataEntry,Survey data entry,70,Onsite,Med,Done,Entered 120 rows
+2025/12/15,Ryo,Admin,Reporting,Monthly report final,95,Onsite,High,Done,Submitted
+2025/12/15,Aki,Admin,Automation,Excel macro cleanup,60,Onsite,Med,Done,Added validation
+2025/12/16,Hina,IT-Support,TicketOps,Ticket SLA check,55,Email,Med,Done,Flagged 2
+2025/12/16,Kota,IT-Support,InquiryHandling,Account lock issues,45,Chat,Med,Done,Resolved quickly
+2025/12/16,Sora,IT-Support,Automation,Power BI refresh troubleshooting,50,Online,Med,Done,Gateway fixed
+2025/12/17,Mei,Admin,DataCleaning,Address format cleanup,85,Onsite,Med,Done,Zip code unify
+2025/12/17,Ryo,Admin,InvoiceCheck,Payment request audit,80,Email,High,Done,Found 1 error
+2025/12/17,Aki,Admin,Meeting,Process review meeting,40,Online,Med,Done,Improvement backlog
+2025/12/18,Hina,IT-Support,InquiryHandling,Device replacement request,50,Chat,Med,Done,Inventory updated
+2025/12/18,Kota,IT-Support,TicketOps,Ticket escalation,65,Email,High,InProgress,Pending approval
+2025/12/18,Sora,IT-Support,Meeting,Sprint planning,45,Online,Med,Done,Prioritized tasks
+2025/12/19,Mei,Admin,InvoiceCheck,Invoice validation,70,Email,High,Done,Checked 14 invoices
+2025/12/19,Ryo,Admin,Reporting,Weekly KPI final,60,Email,High,Done,Sent to team
+2025/12/19,Aki,Admin,Automation,Template standardization,55,Onsite,Med,Done,Reduced errors
+2025/12/20,Hina,IT-Support,InquiryHandling,Remote access issue,60,Chat,High,Done,Reconfigured client
+2025/12/20,Kota,IT-Support,TicketOps,Backlog triage,75,Email,Med,Done,Closed 10
+2025/12/20,Sora,IT-Support,Automation,Script deployment plan,50,Online,Med,Done,Rollout steps

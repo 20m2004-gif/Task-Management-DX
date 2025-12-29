@@ -1,0 +1,9 @@
+﻿task_category,task_category_group,description
+DataEntry,BackOffice,入力・転記・チェックなど定型処理
+Reporting,BackOffice,週次/月次などレポート作成
+InvoiceCheck,BackOffice,請求書・支払処理関連
+InquiryHandling,CustomerSupport,問い合わせ対応・一次切り分け
+TicketOps,CustomerSupport,チケット起票・更新・エスカレーション
+Automation,Improvement,RPA/マクロ/スクリプト等による自動化
+DataCleaning,Improvement,データ整形・名寄せ・欠損対応
+Meeting,Management,MTG・引継ぎ・調整
